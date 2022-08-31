@@ -38,7 +38,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://KoNaSonic.github.io/react-tutorial"
+    "homepage": ["https://konasonic.github.io/react-tutorial"]
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
